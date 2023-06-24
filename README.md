@@ -5,8 +5,7 @@ Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
 
 First get the packer:
 ```
-git clone --depth 1 https://github.com/wbthomason/packer.nvim\
- ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim
  ```
 
 
