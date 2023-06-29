@@ -5,6 +5,9 @@ lsp.preset("recommended")
 lsp.ensure_installed({
   'tsserver',
   'rust_analyzer',
+  'pyright',
+  'clangd',
+  'texlab',
 })
 
 -- Fix Undefined global 'vim'
