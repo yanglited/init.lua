@@ -1,5 +1,6 @@
 require("theprimeagen.set")
 require("theprimeagen.remap")
+require("theprimeagen.packer")
 print("hello from the primeagen")
 
 -- DO NOT INCLUDE THIS
